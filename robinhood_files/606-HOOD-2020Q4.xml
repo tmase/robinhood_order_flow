@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heldOrderRoutingPublicReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="oh-20191231.xsd">
+  <version>1.3</version>
+  <bd>Robinhood Securities LLC</bd>
+  <year>2020</year>
+  <qtr>4</qtr>
+  <timestamp>2021-01-29T16:34:04Z</timestamp>
+  <rMonthly>
+    <year>2020</year>
+    <mon>10</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>28.09</ndoMarketPct>
+      <ndoMarketableLimitPct>22.39</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>10.89</ndoNonmarketableLimitPct>
+      <ndoOtherPct>38.63</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>38.83</orderPct>
+          <marketPct>24.83</marketPct>
+          <marketableLimitPct>23.02</marketableLimitPct>
+          <nonMarketableLimitPct>25.16</nonMarketableLimitPct>
+          <otherPct>62.04</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>189114.97</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>24.3994</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>114667.16</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>24.5213</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>27489.21</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>23.3446</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>481546.30</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>55.9258</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Citadel Execution Services for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1X Execution Services, LLC</name>
+          <orderPct>22.61</orderPct>
+          <marketPct>35.73</marketPct>
+          <marketableLimitPct>37.40</marketableLimitPct>
+          <nonMarketableLimitPct>36.36</nonMarketableLimitPct>
+          <otherPct>0.61</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>277352.97</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>41.2455</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>183121.69</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>39.0876</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>40106.47</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>30.6193</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>8467.15</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>37.7252</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from G1 Execution Services, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>18.16</orderPct>
+          <marketPct>25.58</marketPct>
+          <marketableLimitPct>26.59</marketableLimitPct>
+          <nonMarketableLimitPct>26.16</nonMarketableLimitPct>
+          <otherPct>5.63</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>135659.96</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>55.0710</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>86822.02</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>50.2090</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>19349.43</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>43.3423</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>11410.83</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>74.5894</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Two Sigma Securities, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>16.96</orderPct>
+          <marketPct>8.13</marketPct>
+          <marketableLimitPct>7.60</marketableLimitPct>
+          <nonMarketableLimitPct>7.01</nonMarketableLimitPct>
+          <otherPct>31.61</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>72161.44</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>31.8656</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>46385.16</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>30.8932</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>13864.26</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.9409</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>280345.96</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>68.1341</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Virtu Americas, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Securities LLC</name>
+          <orderPct>3.44</orderPct>
+          <marketPct>5.72</marketPct>
+          <marketableLimitPct>5.40</marketableLimitPct>
+          <nonMarketableLimitPct>5.32</nonMarketableLimitPct>
+          <otherPct>0.11</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>70125.17</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>43.2034</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>44162.29</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>41.5848</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>11135.01</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>37.7928</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2497.10</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>53.0940</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Wolverine Securities LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>26.50</ndoMarketPct>
+      <ndoMarketableLimitPct>24.78</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>10.85</ndoNonmarketableLimitPct>
+      <ndoOtherPct>37.87</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>45.14</orderPct>
+          <marketPct>32.19</marketPct>
+          <marketableLimitPct>31.71</marketableLimitPct>
+          <nonMarketableLimitPct>35.06</nonMarketableLimitPct>
+          <otherPct>65.89</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2463173.35</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>23.8146</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1550534.86</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>19.1145</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>327576.59</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>21.6317</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2806667.54</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>24.2989</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Citadel Execution Services for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>18.19</orderPct>
+          <marketPct>26.88</marketPct>
+          <marketableLimitPct>28.02</marketableLimitPct>
+          <nonMarketableLimitPct>25.64</nonMarketableLimitPct>
+          <otherPct>3.56</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1111584.76</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>25.6484</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>730196.10</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>20.1565</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>146136.82</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>20.8006</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>86605.61</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>31.6872</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Two Sigma Securities, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1X Execution Services, LLC</name>
+          <orderPct>16.92</orderPct>
+          <marketPct>27.63</marketPct>
+          <marketableLimitPct>26.66</marketableLimitPct>
+          <nonMarketableLimitPct>25.59</nonMarketableLimitPct>
+          <otherPct>0.58</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1665318.64</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>35.2643</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1072019.20</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>27.5428</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>222410.05</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.0634</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>62713.27</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>35.3752</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from G1 Execution Services, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>16.55</orderPct>
+          <marketPct>8.13</marketPct>
+          <marketableLimitPct>8.60</marketableLimitPct>
+          <nonMarketableLimitPct>8.77</nonMarketableLimitPct>
+          <otherPct>29.86</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>980535.13</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>22.0190</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>596591.19</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>15.9920</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>148384.92</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>18.8703</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1615844.97</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>21.5036</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Virtu Americas, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Securities LLC</name>
+          <orderPct>3.19</orderPct>
+          <marketPct>5.18</marketPct>
+          <marketableLimitPct>5.01</marketableLimitPct>
+          <nonMarketableLimitPct>4.94</nonMarketableLimitPct>
+          <otherPct>0.11</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>618764.84</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>18.7781</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>385905.75</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>14.7439</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>91123.97</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>17.5684</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>24478.91</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>21.6037</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Wolverine Securities LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>0.02</ndoMarketPct>
+      <ndoMarketableLimitPct>13.07</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>62.34</ndoNonmarketableLimitPct>
+      <ndoOtherPct>24.57</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>66.02</orderPct>
+          <marketPct>69.91</marketPct>
+          <marketableLimitPct>69.67</marketableLimitPct>
+          <nonMarketableLimitPct>66.58</nonMarketableLimitPct>
+          <otherPct>62.67</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>3526.73</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>59.0050</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>8539738.88</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>59.0077</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>13703704.55</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>59.0077</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>115379.09</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>59.0078</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The venues each pay Robinhood based on the same schedule.  The schedules vary by groups of symbols.  Differences in average payments among venues are due to the mix of symbols executed at each venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers, LP</name>
+          <orderPct>16.71</orderPct>
+          <marketPct>13.93</marketPct>
+          <marketableLimitPct>14.68</marketableLimitPct>
+          <nonMarketableLimitPct>16.49</nonMarketableLimitPct>
+          <otherPct>18.36</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1558.49</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>58.0011</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>3280280.74</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>58.0020</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>4785071.76</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>58.0020</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>41837.42</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>58.0020</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The venues each pay Robinhood based on the same schedule.  The schedules vary by groups of symbols.  Differences in average payments among venues are due to the mix of symbols executed at each venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>12.47</orderPct>
+          <marketPct>11.07</marketPct>
+          <marketableLimitPct>10.95</marketableLimitPct>
+          <nonMarketableLimitPct>12.14</nonMarketableLimitPct>
+          <otherPct>14.14</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1459.68</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>55.5645</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2099618.56</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>55.5611</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>3802485.95</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>55.5611</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>37301.36</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>55.5609</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The venues each pay Robinhood based on the same schedule.  The schedules vary by groups of symbols.  Differences in average payments among venues are due to the mix of symbols executed at each venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Morgan Stanley &amp; Co., LLC</name>
+          <orderPct>4.79</orderPct>
+          <marketPct>5.09</marketPct>
+          <marketableLimitPct>4.71</marketableLimitPct>
+          <nonMarketableLimitPct>4.79</nonMarketableLimitPct>
+          <otherPct>4.83</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>699.07</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>57.7744</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>716545.63</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>57.7629</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>1137755.37</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>57.7629</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>11290.16</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>57.7620</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The venues each pay Robinhood based on the same schedule.  The schedules vary by groups of symbols.  Differences in average payments among venues are due to the mix of symbols executed at each venue.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2020</year>
+    <mon>11</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>32.13</ndoMarketPct>
+      <ndoMarketableLimitPct>21.80</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>9.84</ndoNonmarketableLimitPct>
+      <ndoOtherPct>36.23</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>29.82</orderPct>
+          <marketPct>19.29</marketPct>
+          <marketableLimitPct>18.94</marketableLimitPct>
+          <nonMarketableLimitPct>18.13</nonMarketableLimitPct>
+          <otherPct>48.87</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>161863.71</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>22.9500</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>91648.09</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>22.8400</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>19221.51</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>21.9369</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>410192.24</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>50.5511</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Citadel Execution Services for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1X Execution Services, LLC</name>
+          <orderPct>22.09</orderPct>
+          <marketPct>34.01</marketPct>
+          <marketableLimitPct>33.73</marketableLimitPct>
+          <nonMarketableLimitPct>36.32</nonMarketableLimitPct>
+          <otherPct>0.65</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>332749.35</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>43.8285</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>200210.75</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>43.3549</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>47511.26</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>32.9344</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>9837.01</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>43.7340</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from G1 Execution Services, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>21.90</orderPct>
+          <marketPct>8.65</marketPct>
+          <marketableLimitPct>8.92</marketableLimitPct>
+          <nonMarketableLimitPct>8.50</nonMarketableLimitPct>
+          <otherPct>45.10</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>90812.89</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>44.7866</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>52578.74</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>43.8195</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>12162.18</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>33.9619</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>339647.72</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>82.3071</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Virtu Americas, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>19.77</orderPct>
+          <marketPct>28.04</marketPct>
+          <marketableLimitPct>28.44</marketableLimitPct>
+          <nonMarketableLimitPct>27.07</nonMarketableLimitPct>
+          <otherPct>5.23</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>179212.13</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>61.9021</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>103102.51</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>59.4430</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>21508.86</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>49.8628</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>10022.25</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>71.7347</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Two Sigma Securities, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Securities LLC</name>
+          <orderPct>6.43</orderPct>
+          <marketPct>10.01</marketPct>
+          <marketableLimitPct>9.97</marketableLimitPct>
+          <nonMarketableLimitPct>9.97</nonMarketableLimitPct>
+          <otherPct>0.16</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>103650.13</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>49.7906</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>60984.67</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>54.0010</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>13999.67</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>42.5601</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>3347.41</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>50.1017</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Wolverine Securities LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>30.07</ndoMarketPct>
+      <ndoMarketableLimitPct>27.39</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>9.69</ndoNonmarketableLimitPct>
+      <ndoOtherPct>32.86</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>39.95</orderPct>
+          <marketPct>30.23</marketPct>
+          <marketableLimitPct>31.27</marketableLimitPct>
+          <nonMarketableLimitPct>32.69</nonMarketableLimitPct>
+          <otherPct>58.22</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>4126197.24</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>22.3098</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2492103.47</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>16.2427</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>476354.94</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>19.1398</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>3810377.06</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>23.0214</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Citadel Execution Services for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>19.82</orderPct>
+          <marketPct>28.06</marketPct>
+          <marketableLimitPct>27.69</marketableLimitPct>
+          <nonMarketableLimitPct>26.94</nonMarketableLimitPct>
+          <otherPct>3.62</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1666393.86</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>25.2171</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>979450.93</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>18.2469</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>195437.40</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>20.0883</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>107742.15</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>25.9307</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Two Sigma Securities, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>18.94</orderPct>
+          <marketPct>9.72</marketPct>
+          <marketableLimitPct>10.19</marketableLimitPct>
+          <nonMarketableLimitPct>9.92</nonMarketableLimitPct>
+          <otherPct>37.31</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1302390.00</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>16.8837</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>757276.01</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.4460</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>158751.02</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>13.6261</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>2071490.22</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>18.9570</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Virtu Americas, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1X Execution Services, LLC</name>
+          <orderPct>14.84</orderPct>
+          <marketPct>22.15</marketPct>
+          <marketableLimitPct>21.48</marketableLimitPct>
+          <nonMarketableLimitPct>21.64</nonMarketableLimitPct>
+          <otherPct>0.61</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2033082.95</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>33.2231</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1245590.37</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>26.0672</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>245830.94</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>26.5235</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>70454.03</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>32.3642</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from G1 Execution Services, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Securities LLC</name>
+          <orderPct>6.46</orderPct>
+          <marketPct>9.83</marketPct>
+          <marketableLimitPct>9.37</marketableLimitPct>
+          <nonMarketableLimitPct>8.81</nonMarketableLimitPct>
+          <otherPct>0.24</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1184870.43</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>17.2057</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>683440.60</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>12.1525</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>147448.27</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>14.4155</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>41494.81</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>15.7818</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Wolverine Securities LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>0.02</ndoMarketPct>
+      <ndoMarketableLimitPct>14.26</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>65.85</ndoNonmarketableLimitPct>
+      <ndoOtherPct>19.86</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>62.41</orderPct>
+          <marketPct>69.17</marketPct>
+          <marketableLimitPct>64.20</marketableLimitPct>
+          <nonMarketableLimitPct>62.74</nonMarketableLimitPct>
+          <otherPct>60.00</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>8402.84</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>64.0607</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>9862572.87</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>64.0619</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>15379997.54</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>64.0619</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>103054.75</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>64.0621</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The venues each pay Robinhood based on the same schedule.  The schedules vary by groups of symbols.  Differences in average payments among venues are due to the mix of symbols executed at each venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers, LP</name>
+          <orderPct>18.25</orderPct>
+          <marketPct>15.13</marketPct>
+          <marketableLimitPct>17.07</marketableLimitPct>
+          <nonMarketableLimitPct>18.34</nonMarketableLimitPct>
+          <otherPct>18.78</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>4141.89</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>60.8475</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>4711771.07</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>60.8439</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>6397941.72</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>60.8438</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>46563.40</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>60.8441</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The venues each pay Robinhood based on the same schedule.  The schedules vary by groups of symbols.  Differences in average payments among venues are due to the mix of symbols executed at each venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>11.12</orderPct>
+          <marketPct>8.07</marketPct>
+          <marketableLimitPct>10.58</marketableLimitPct>
+          <nonMarketableLimitPct>10.82</nonMarketableLimitPct>
+          <otherPct>12.52</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1818.94</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>58.3555</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2360551.55</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>58.3598</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>3937717.73</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>58.3598</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>34371.95</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>58.3594</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The venues each pay Robinhood based on the same schedule.  The schedules vary by groups of symbols.  Differences in average payments among venues are due to the mix of symbols executed at each venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Morgan Stanley &amp; Co., LLC</name>
+          <orderPct>8.23</orderPct>
+          <marketPct>7.63</marketPct>
+          <marketableLimitPct>8.15</marketableLimitPct>
+          <nonMarketableLimitPct>8.10</nonMarketableLimitPct>
+          <otherPct>8.69</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2420.07</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>60.9129</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1572211.21</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>60.9080</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2383626.17</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>60.9080</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>18458.47</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>60.9070</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The venues each pay Robinhood based on the same schedule.  The schedules vary by groups of symbols.  Differences in average payments among venues are due to the mix of symbols executed at each venue.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+  <rMonthly>
+    <year>2020</year>
+    <mon>12</mon>
+    <rSP500>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>30.74</ndoMarketPct>
+      <ndoMarketableLimitPct>22.57</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>9.83</ndoNonmarketableLimitPct>
+      <ndoOtherPct>36.86</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>50.03</orderPct>
+          <marketPct>36.99</marketPct>
+          <marketableLimitPct>36.66</marketableLimitPct>
+          <nonMarketableLimitPct>38.82</nonMarketableLimitPct>
+          <otherPct>72.07</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>204790.70</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>52.9002</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>124666.46</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>48.9279</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>23634.84</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>42.3557</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>325010.16</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>78.3354</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Virtu Americas, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>20.17</orderPct>
+          <marketPct>17.84</marketPct>
+          <marketableLimitPct>17.20</marketableLimitPct>
+          <nonMarketableLimitPct>16.53</nonMarketableLimitPct>
+          <otherPct>24.89</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>154508.58</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>20.1260</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>89533.78</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>19.4147</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>18026.10</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>19.9215</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>197342.20</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>32.1663</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Citadel Execution Services for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1X Execution Services, LLC</name>
+          <orderPct>14.53</orderPct>
+          <marketPct>22.08</marketPct>
+          <marketableLimitPct>23.33</marketableLimitPct>
+          <nonMarketableLimitPct>23.88</nonMarketableLimitPct>
+          <otherPct>0.36</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>180648.39</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>31.5733</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>113499.23</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>30.9642</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>26455.22</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.7537</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>4730.55</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>29.6080</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from G1 Execution Services, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>12.76</orderPct>
+          <marketPct>19.10</marketPct>
+          <marketableLimitPct>18.96</marketableLimitPct>
+          <nonMarketableLimitPct>16.75</nonMarketableLimitPct>
+          <otherPct>2.61</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>98829.22</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>45.1703</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>59621.79</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>42.9393</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>12506.91</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>40.3336</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>4723.23</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>48.9531</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Two Sigma Securities, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Securities LLC</name>
+          <orderPct>2.51</orderPct>
+          <marketPct>3.99</marketPct>
+          <marketableLimitPct>3.85</marketableLimitPct>
+          <nonMarketableLimitPct>4.02</nonMarketableLimitPct>
+          <otherPct>0.07</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>46032.30</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>33.1125</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>27701.60</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>33.3813</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>7464.13</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>29.8887</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>1764.26</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>40.8153</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Wolverine Securities LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rSP500>
+    <rOtherStocks>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>29.75</ndoMarketPct>
+      <ndoMarketableLimitPct>27.99</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>10.48</ndoNonmarketableLimitPct>
+      <ndoOtherPct>31.78</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Virtu Americas, LLC</name>
+          <orderPct>43.69</orderPct>
+          <marketPct>35.05</marketPct>
+          <marketableLimitPct>36.05</marketableLimitPct>
+          <nonMarketableLimitPct>33.52</nonMarketableLimitPct>
+          <otherPct>61.85</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>3750382.65</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>30.3444</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2228358.11</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>20.9076</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>428005.57</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>25.8232</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>3417727.56</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>22.8099</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Virtu Americas, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>25.43</orderPct>
+          <marketPct>20.21</marketPct>
+          <marketableLimitPct>20.11</marketableLimitPct>
+          <nonMarketableLimitPct>24.89</nonMarketableLimitPct>
+          <otherPct>35.18</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>4780624.90</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>27.8964</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>2866988.41</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>21.3316</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>540369.60</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>24.9599</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>3717172.77</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>24.0927</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Citadel Execution Services for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Two Sigma Securities, LLC</name>
+          <orderPct>15.72</orderPct>
+          <marketPct>22.49</marketPct>
+          <marketableLimitPct>22.52</marketableLimitPct>
+          <nonMarketableLimitPct>18.92</nonMarketableLimitPct>
+          <otherPct>2.34</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2104027.57</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>25.2030</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1244940.34</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>17.3626</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>236258.60</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>20.8768</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>151483.85</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>25.5904</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Two Sigma Securities, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>G1X Execution Services, LLC</name>
+          <orderPct>11.87</orderPct>
+          <marketPct>17.50</marketPct>
+          <marketableLimitPct>16.75</marketableLimitPct>
+          <nonMarketableLimitPct>17.30</nonMarketableLimitPct>
+          <otherPct>0.49</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>2671113.72</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>35.1045</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1580171.48</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>25.1951</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>300829.90</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>27.8768</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>102304.74</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>34.3184</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from G1 Execution Services, LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Securities LLC</name>
+          <orderPct>3.30</orderPct>
+          <marketPct>4.75</marketPct>
+          <marketableLimitPct>4.57</marketableLimitPct>
+          <nonMarketableLimitPct>5.38</nonMarketableLimitPct>
+          <otherPct>0.14</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1307953.11</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>16.6293</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>779101.75</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>11.5901</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>157269.29</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>15.1828</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>52460.38</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>15.9003</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The per share amounts represent the total amount of payments received by Robinhood Securities.  Robinhood Securities receives payment from Wolverine Securities LLC for directing equity order flow to this venue. The payment varied based upon a fixed percentage of the spread between the National Best Bid and National Best Offer for the security at the time of order execution.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOtherStocks>
+    <rOptions>
+      <ndoPct>100.00</ndoPct>
+      <ndoMarketPct>0.05</ndoMarketPct>
+      <ndoMarketableLimitPct>14.48</ndoMarketableLimitPct>
+      <ndoNonmarketableLimitPct>63.02</ndoNonmarketableLimitPct>
+      <ndoOtherPct>22.45</ndoOtherPct>
+      <rVenues>
+        <rVenue>
+          <name>Citadel Execution Services</name>
+          <orderPct>55.34</orderPct>
+          <marketPct>53.15</marketPct>
+          <marketableLimitPct>56.73</marketableLimitPct>
+          <nonMarketableLimitPct>55.75</nonMarketableLimitPct>
+          <otherPct>53.30</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>9360.52</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>65.8218</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>11304200.98</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>65.8198</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>16661113.10</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>65.8198</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>110093.20</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>65.8196</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The venues each pay Robinhood based on the same schedule.  The schedules vary by groups of symbols.  Differences in average payments among venues are due to the mix of symbols executed at each venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Global Execution Brokers, LP</name>
+          <orderPct>22.55</orderPct>
+          <marketPct>21.44</marketPct>
+          <marketableLimitPct>22.23</marketableLimitPct>
+          <nonMarketableLimitPct>22.55</nonMarketableLimitPct>
+          <otherPct>22.76</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>6373.28</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>62.2391</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>6757667.93</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>62.2399</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>8607825.11</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>62.2399</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>61687.38</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>62.2401</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The venues each pay Robinhood based on the same schedule.  The schedules vary by groups of symbols.  Differences in average payments among venues are due to the mix of symbols executed at each venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Wolverine Execution Services, LLC</name>
+          <orderPct>13.55</orderPct>
+          <marketPct>16.67</marketPct>
+          <marketableLimitPct>12.66</marketableLimitPct>
+          <nonMarketableLimitPct>13.22</nonMarketableLimitPct>
+          <otherPct>15.05</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>3061.52</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>60.4446</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>3522720.26</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>60.4497</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>5282510.02</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>60.4497</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>42282.10</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>60.4496</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The venues each pay Robinhood based on the same schedule.  The schedules vary by groups of symbols.  Differences in average payments among venues are due to the mix of symbols executed at each venue.</materialAspects>
+        </rVenue>
+        <rVenue>
+          <name>Morgan Stanley &amp; Co., LLC</name>
+          <orderPct>8.56</orderPct>
+          <marketPct>8.74</marketPct>
+          <marketableLimitPct>8.38</marketableLimitPct>
+          <nonMarketableLimitPct>8.48</nonMarketableLimitPct>
+          <otherPct>8.90</otherPct>
+          <netPmtPaidRecvMarketOrdersUsd>1201.79</netPmtPaidRecvMarketOrdersUsd>
+          <netPmtPaidRecvMarketOrdersCph>61.7887</netPmtPaidRecvMarketOrdersCph>
+          <netPmtPaidRecvMarketableLimitOrdersUsd>1998419.24</netPmtPaidRecvMarketableLimitOrdersUsd>
+          <netPmtPaidRecvMarketableLimitOrdersCph>61.7841</netPmtPaidRecvMarketableLimitOrdersCph>
+          <netPmtPaidRecvNonMarketableLimitOrdersUsd>2841357.55</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+          <netPmtPaidRecvNonMarketableLimitOrdersCph>61.7841</netPmtPaidRecvNonMarketableLimitOrdersCph>
+          <netPmtPaidRecvOtherOrdersUsd>23381.98</netPmtPaidRecvOtherOrdersUsd>
+          <netPmtPaidRecvOtherOrdersCph>61.7835</netPmtPaidRecvOtherOrdersCph>
+          <materialAspects>Revenue that Robinhood Securities receives from the third-party market venues is shared pursuant to a fully-disclosed clearing agreement with Robinhood Financial LLC. The venues each pay Robinhood based on the same schedule.  The schedules vary by groups of symbols.  Differences in average payments among venues are due to the mix of symbols executed at each venue.</materialAspects>
+        </rVenue>
+      </rVenues>
+    </rOptions>
+  </rMonthly>
+</heldOrderRoutingPublicReport>
